@@ -17,14 +17,14 @@ public class PopulatorCaves extends Populator {
 
     private Random random;
 
-    public static int caveRarity = 7;
-    public static int caveFrequency = 40;
+    public static int caveRarity = 9;
+    public static int caveFrequency = 41;
     public static int caveMinAltitude = 8;
-    public static int caveMaxAltitude = 67;
+    public static int caveMaxAltitude = 66; // no 67 hahahahhahahah
     public static int individualCaveRarity = 25;
-    public static int caveSystemFrequency = 1;
+    public static int caveSystemFrequency = 2;
     public static int caveSystemPocketChance = 0;
-    public static int caveSystemPocketMinSize = 0;
+    public static int caveSystemPocketMinSize = 1;
     public static int caveSystemPocketMaxSize = 4;
     public static boolean evenCaveDistribution = false;
 
