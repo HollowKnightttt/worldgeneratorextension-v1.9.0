@@ -1,5 +1,6 @@
-# worldgeneration by randomMizerrr
-an world generation for nukkit pm1e
+# worldgeneration by pm1e
+an world generation for nukkit pm1e <br />
+this repo is constants ai Generate code (a bit) 
 # update
 - fix bug at perlin noise
 - 100k-1b block away Infinite ocean FIXED
