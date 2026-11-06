@@ -5,7 +5,7 @@ an world generation for nukkit pm1e
 - 100k-1b block away Infinite ocean FIXED
 
 # soon
-adding new layer to the over world and fix the 2 layer if bedrock
+adding new layer to the over world and fix the 2 layer of bedrock
 
 # building from source
 its on [build.md click here](https://github.com/HollowKnightttt/worldgeneratorextension-ramz-anarchy-network/blob/master/build.md) 
