@@ -41,7 +41,7 @@ public class GroundGenerator implements BlockID {
 
         int surfaceHeight = Math.max((int) (surfaceNoise / 3.0D + 3.0D + random.nextDouble() * 0.25D), 1);
         int deep = -1;
-        for (int y = 255; y >= 0; y--) {
+        for (int y = 255; y >= -64; y--) {
             if (y <= random.nextBoundedInt(5)) {
                 chunkData.setBlock(x, y, z, BEDROCK);
             } else {
