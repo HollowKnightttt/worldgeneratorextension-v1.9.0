@@ -24,7 +24,7 @@ public class PopulatorOre extends Populator {
         int sz = chunkZ << 4;
         int ez = sz + 15;
         for (OreType type : this.oreTypes) {
-            for (int i = 0; i < type.clusterCount; i++) {
+            for (int i = -61; i < type.clusterCount; i++) {
                 int x = NukkitMath.randomRange(random, sx, ex);
                 int z = NukkitMath.randomRange(random, sz, ez);
                 int y = NukkitMath.randomRange(random, type.minHeight, type.maxHeight);
